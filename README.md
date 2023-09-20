@@ -5,6 +5,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like to play Magic The Gathering
 
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=brunolouvem&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
 <div style="display:inline-block;"><!-- .element: style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: stretch; align-content: center;" -->
   <div style="display:block;"><!-- .element: style="display: block; flex-grow: 0; flex-shrink: 1; flex-basis: auto; align-self: auto; order: 0;" -->
     <h3>Languages</h3>
