@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working with Elixir
 - 🌱 I’m currently learning Rust
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like to play Magic The Gathering
 
 <p align=center>
@@ -26,14 +25,15 @@
   <div style="display:block;"><!-- .element: style="display: block; flex-grow: 0; flex-shrink: 1; flex-basis: auto; align-self: auto; order: 0;" -->
     <h3>DevOps</h3>
     <img align="center" alt="Bruno-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-    <img align="center" alt="Bruno-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+    <img align="center" alt="Bruno-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="Bruno-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/googlecloud/googlecloud-original.svg">
   </div>
   <div style="display:block;"><!-- .element: style="display: block; flex-grow: 0; flex-shrink: 1; flex-basis: auto; align-self: auto; order: 0;" -->
     <h3>Frontend</h3>
     <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Bruno-Js" height="30" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
   </div>
 </div>
 
